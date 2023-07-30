@@ -1,10 +1,5 @@
 {
-    "compilerOptions": {
-      "module": "ESNext"
-    },
-    "ts-node": {
-      "compilerOptions": {
-        "module": "CommonJS"
-      }
-    }
+  "compilerOptions": {
+    "esModuleInterop": true
+  }
   }
